@@ -1,3 +1,7 @@
+/*This file contains all the objects needed for the 
+  string graph datastructure. This includes edges, 
+   vertices, adjacency list, and the actual string graph*/
+
 /*creates a graph structure */
 
 /*creates an edge structure with weight for vertex*/
